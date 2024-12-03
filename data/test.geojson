@@ -70,6 +70,30 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "今いる場所（チーム2）",
+        "いる人": "GeoTechnologies と Geolonia",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          40,
+          40
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.14686362196755,
+          39.70140214155586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "テスト２",
         "項目名です": "値です。",
         "_markerType": "Icon",
